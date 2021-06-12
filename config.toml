@@ -1,3 +1,56 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://www.takameron.info/"
+title = "ぶっち・ブログ"
+languageCode = "ja-jp"
+hasCJKLanguage = true
+pygmentsUseClasses = true
+pygmentsCodefences = true
+theme = "smartblog"
+
+GoogleAnalytics = "UA-82319934-4"
+#GoogleAnalytics = "G-82B70P3QSV"
+#disqusShortname = "yourdiscussshortname"
+ignoreErrors = ["error-remote-getjson"]
+
+[Author]
+  name = "ぶっち"
+
+[params]
+  title = "ぶっち・ブログ" # For OGP
+  copyright = "© ぶっち・ブログ"
+  #description = "website description"
+  logo = "/img/logo.png"
+  quicklink = true
+
+  [params.author]
+    logo = "/img/author.png"
+    name = "ぶっち・ブログ"
+    description= "高専生。自由気ままにブログを書こうと思います。"
+    email = "contact@takameron.info"
+    twitter = "takameron_info"
+    #facebook = "author_facebook"
+    #instagram = "author_instagram"
+    github = "takameron"
+
+[params.color]
+  primary = "black"
+  primarytext = "#333"
+  headerfootertext = "white"
+  secondary = "#5989cf"
+  link = "blue"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+  [markup.highlight]
+    guessSyntax = true
+    linenos = true
+
+[outputs]
+  page = ["HTML", "AMP"]

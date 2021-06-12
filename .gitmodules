@@ -1,0 +1,3 @@
+[submodule "themes/smartblog"]
+	path = themes/smartblog
+	url = https://github.com/takameron/hugo_theme_smartblog.git
