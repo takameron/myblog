@@ -1,6 +1,7 @@
 +++
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
+lastmod: {{ .Date }}
 author: "{{ .Site.Author.name }}"
 images: ["post-cover.png"]
 categories: ["category1"]
