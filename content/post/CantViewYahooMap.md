@@ -27,7 +27,7 @@ Nuxt.jsでYOLP（地図）の「Yahoo! JavaScriptマップAPI」を使おうと�
 
 {{< twitter 1223876688108384256 >}}
 
-こちらのサイト](http://mori-coding.blog.jp/archives/8063243.html "yahoo map（YOLP）でマップが描画されずにグレーになったときのCSS原因 : 森のコーディング")に解決法が紹介されています。  
+[こちらのサイト](http://mori-coding.blog.jp/archives/8063243.html "yahoo map（YOLP）でマップが描画されずにグレーになったときのCSS原因 : 森のコーディング")に解決法が紹介されています。  
 なんと！
 地図として読み込まれている画像の、CSSの設定が原因でした。
 
