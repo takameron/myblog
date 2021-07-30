@@ -19,7 +19,7 @@ draft: false
 ヤコビアンは以下のように求めます。
 {{< math inline >}}x{{< /math >}} , {{< math inline >}}y{{< /math >}} と {{< math inline >}}u{{< /math >}} , {{< math inline >}}v{{< /math >}} が反対でも転置行列となるため、行列式は変わりません。
 
-{{< cloudinary src="https://res.cloudinary.com/tsukayaku/image/upload/https://res.cloudinary.com/tsukayaku/image/upload/v1580349889/Blog-personal/jacobian/jacobian_uv.svg" w=584 h=245  caption="ヤコビアンの計算方法" >}}
+{{< cloudinary src="https://res.cloudinary.com/tsukayaku/image/upload/v1580349889/Blog-personal/jacobian/jacobian_uv.svg" w=584 h=245  caption="ヤコビアンの計算方法" >}}
 
 変数 {{< math inline >}}x{{< /math >}} , {{< math inline >}}y{{< /math >}} を変数 {{< math inline >}}u{{< /math >}} , {{< math inline >}}v{{< /math >}} に変換したいとき、変換元の式は {{< math inline >}}x = {{< /math >}} や {{< math inline >}}y = {{< /math >}} の形になるように、式変形をします。
 
