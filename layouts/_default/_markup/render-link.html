@@ -1,6 +1,0 @@
-{{- $title := "" -}}
-{{- with .Title -}}
-  {{- $title = . -}}
-{{- end -}}
-
-<a href="{{ .Destination | safeURL }}"{{ with $title }} title="{{ . }}"{{ end }}{{ if strings.HasPrefix .Destination "http" }} target="_blank" rel="noopener" class="icon-new-tab"{{ end }}>{{ .Text | safeHTML }}</a>
