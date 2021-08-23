@@ -1,7 +1,7 @@
 ---
 title: "VSCodeでLaTeXの環境を整える"
 date: 2020-10-20T22:29:00+09:00
-lastmod: 2020-10-20T22:29:00+09:00
+lastmod: 2021-08-23T18:30:01+09:00
 author: "ぶっち"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1602317181/Blog-personal/vscode_latex/thumb.png"]
 categories: ["Tips"]
@@ -11,30 +11,35 @@ toc: true
 draft: false
 ---
 
-パソコンを買い換えるたびにLaTeXの執筆環境の環境構築をやっているので、方法をメモとして残しておきます。
+パソコンを買い換えるたびにLaTeXの執筆環境の構築をしているので、方法をメモとして残しておきます。
 ファイルを保存すると自動でコンパイルが実行されPDFに反映される、我ながら最強の環境です。
+
+この記事では、(u)platex→dvipdfmxの順でPDFを生成する方法を紹介します。
 
 事前にLaTeXのインストールを済ませてください。
 
 ## 拡張機能のインストール
+{{< cloudinary src="https://res.cloudinary.com/tsukayaku/image/upload/v1629705160/Blog-personal/vscode_latex/plugin-install.png" alt="LaTeX Workshop」をインストール" caption="拡張機能のインストール" >}}
+
 拡張機能の検索欄で「LaTeX Workshop」と検索し、James Yuさんが作成された拡張機能をインストールします。
 [マーケットプレイスのページ](https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop "LaTeX Workshop - Visual Studio Marketplace")にある「Install」ボタンをクリックしてもインストールできます。
 
 ## 自動実行の設定
-自動実行の設定は2種類あり、ユーザー設定に書き込む方法とワークスペース設定に書き込む方法があります（ワークスペースとは、フォルダのようなものです）。
-
-メリットとデメリットを以下に示します。
+自動実行の設定は2種類あります。1つ目の「ユーザ設定」はエディタ自体に設定をするものであり、2つ目の「ワークスペース設定」はフォルダごとに設定します。
+メリットとデメリットは以下の通りです。
 
 ||ユーザー設定|ワークスペース設定|
 | :--- | :--- | :--- |
 |メリット|1箇所で設定すればすべての執筆物で<br>同じ環境が使える|執筆物ごとに設定ができる|
 |デメリット|執筆物ごとの設定ができない<br>（ワークスペース設定として上書きはできる）|執筆物ごとに設定ファイルを置く必要がある|
 
-個人的には、VSCode側の設定によらずに執筆物を入れたフォルダを開けば執筆環境が再現できるので、ワークスペース設定のほうが好みです。
+個人的には、フォルダごとコピーすればどのコンピュータでも環境を再現できるので、ワークスペース設定のほうが好みです。
 ユーザー設定は[こちら](#ユーザー設定)、ワークスペース設定は[こちら](#ワークスペース設定) で紹介しています。
 
 ### ユーザー設定
-※古い（最近のブログ記事等ではあまり紹介されていない）方法ですが、手っ取り早くたくさんのLaTeXファイルをコンパイルできる方法として紹介します。
+{{< info >}}
+古い（最近のブログ記事等ではあまり紹介されていない）方法ですが、手っ取り早くたくさんのLaTeXファイルをコンパイルできる方法として紹介します。
+{{< /info >}}
 
 ここでは、Windowsで日本語化拡張機能を入れない環境のスクリーンショットを載せながら手順を紹介します。
 VSCodeのバージョンや日本語化拡張機能の有無で表示は変わりますが、大体同じ手順だと思います。
@@ -47,7 +52,7 @@ VSCodeのバージョンや日本語化拡張機能の有無で表示は変わ�
 {{< cloudinary src="https://res.cloudinary.com/tsukayaku/image/upload/v1602315314/Blog-personal/vscode_latex/setting2.png"  alt="設定画面" caption="設定画面" >}}
 
 個人設定用のJSONファイルが開きます。
-このファイルに設定を記述すると、現在コンピュータにサインインしているアカウントでVSCodeを使った時に、ここの設定が反映されます。
+このファイルに設定を記述すると、現在コンピュータにサインインしているアカウントでVSCodeを使った時に、この設定が反映されます。
 {{< cloudinary src="https://res.cloudinary.com/tsukayaku/image/upload/v1602314515/Blog-personal/vscode_latex/setting3.png"  alt="ユーザ設定のJSONファイル" caption="JSONファイルでユーザ設定をする" >}}
 
 このファイルに、以下の内容を上書きします。既存の設定がある場合、最後の```"ほげほげ": "ふがふが"```のような行の最後に```,```をつけ、以下のテキストの一番外側の```{}```の内側を```"ほげほげ": "ふがふが",```の次の行に続けて貼り付けてください。
@@ -103,9 +108,13 @@ VSCodeのバージョンや日本語化拡張機能の有無で表示は変わ�
 これでLaTeXファイルを自動コンパイルできるようになりました。
 
 ### ワークスペース設定
-ここで紹介する全ての設定を実施したものをZipファイルにしました。LaTeX文章を書き始めるテンプレートのようになっています。LaTeX、VSCode、拡張機能をインストールし、あとはこのテンプレートをもとに文章を作成すれば自動コンパイルされます。以下からダウンロードできます。
+ここで紹介する全ての設定を実施したものをGitHubにあげました。LaTeX文章を書き始めるテンプレートのようになっています。LaTeX、VSCode、拡張機能をインストールし、あとはこのテンプレートをもとに文章を作成すれば自動コンパイルされます。
 
-{{< download "https://res.cloudinary.com/tsukayaku/raw/upload/v1602325595/Blog-personal/vscode_latex/latex-template.zip" "VSCode用LaTeXテンプレート" >}}
+{{< blogcard "https://github.com/takameron/vscode-uplatex" "takameron/vscode-uplatex" >}}
+
+以下からZipファイルをダウンロードできます。
+
+{{< download "https://github.com/takameron/vscode-uplatex/archive/refs/heads/main.zip" "VSCode用LaTeXテンプレート" >}}
 
 ファイル構成は以下のようになっています。```.vscode```ディレクトリの中に、インストールを推奨する拡張機能を指定する```extensions.json```、設定を記述する```settings.json```が入っています。```.latexmkrc```ファイルにはLaTeXでのコンパイル方法を記述します。```test.tex```が文書ファイルで、ファイル名は自由です。
 
@@ -137,7 +146,7 @@ Windowsではエラーが表示されるかもしれませんが、その場合�
 {{< cloudinary src="https://res.cloudinary.com/tsukayaku/image/upload/v1602325385/Blog-personal/vscode_latex/recommend.png"  alt="インストール推奨メッセージ" caption="インストールするか尋ねてくる" >}}
 
 #### VSCodeの設定
-```.vscode```ディレクトリの下に```settings.json```ファイルをおくと、このワークスペース（フォルダ）内でのみ有効な設定がVSCodeに（ユーザ設定に上書きされて）読み込まれます。
+```.vscode```ディレクトリの下に```settings.json```ファイルをおくと、このワークスペース（フォルダ）内でのみ有効な設定が読み込まれます（ユーザ設定と競合していたらこちらの設定が優先されます）。
 
 コンパイルにはLatexmkを使うため、この設定ファイルにLatexmkを呼び出す設定を記述します。
 「LaTeX Workshop」によって、LaTeX文書を保存するとこの設定に従って文章のコンパイルが開始されます。
@@ -269,7 +278,7 @@ QPDFというコマンドを使うと、PDFをweb表示用に最適化できま�
 ここでは、自動でqpdfコマンドを実行し、web表示用に最適化する方法を紹介します。
 
 まず、QPDFというコマンドがインストールされている必要があります。LaTeXのインストール時にWindowsでは標準でインストールされ、MacやLinuxではインストールされないようです（詳しく確かめていないのでわかりません）。ターミナルで```qpdf --version```と入力して実行すると、インストールされているかを確認できます。
-インストールされていない場合、インストール方法はここでは紹介しませんが、簡単にインストールできます。
+インストールされていない場合、インストール方法はここでは紹介しませんのでwebでお探しください。
 
 qpdfコマンドがインストールされていることを確認できたら、```.vscode/settings.json```を以下のテキストに置き換えます。
 
@@ -304,7 +313,6 @@ qpdfコマンドがインストールされていることを確認できたら�
 ```
 
 "latex-workshop.latex.recipes"の"tools"に```"web_optimisation"```を追加し、"latex-workshop.latex.tools"に```"web_optimisation"```の設定を追加しました。
-
 これで、元々生成されていたPDFファイルに加えて、```web.pdf```ファイルが生成されます。
 
 実際にWeb表示用に最適化されているか、確認します。
