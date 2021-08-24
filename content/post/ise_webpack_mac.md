@@ -23,6 +23,7 @@ ISE WebPACKをMacで動かす方法を紹介します。
 | | |
 | --- | --- |
 | パソコン | MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports) |
+| OS | macOS Big Sur 11.5.2 |
 | FPGA | SPARTAN-6 XC6SLX9 TQG144 |
 | ダウンロードケーブル | [Digilent XUP USB-JTAG](https://digilent.com/xup-usb-jtag-programming-cable/ "XUP USB-JTAG Programming Cable - Digilent") |
 
