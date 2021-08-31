@@ -19,7 +19,7 @@ draft: false
 ヤコビアンは以下のように求めます。
 {{< math inline >}}x{{< /math >}} , {{< math inline >}}y{{< /math >}} と {{< math inline >}}u{{< /math >}} , {{< math inline >}}v{{< /math >}} が反対でも転置行列となるため、行列式は変わりません。
 
-{{< cloudinary src="https://res.cloudinary.com/tsukayaku/image/upload/v1580349889/Blog-personal/jacobian/jacobian_uv.svg" w=584 h=245  caption="ヤコビアンの計算方法" >}}
+{{< cloudinary src="https://res.cloudinary.com/tsukayaku/image/upload/v1630398718/Blog-personal/jacobian/jacobian_uv.svg" w=580 h=332 caption="ヤコビアンの計算方法" >}}
 
 変数 {{< math inline >}}x{{< /math >}} , {{< math inline >}}y{{< /math >}} を変数 {{< math inline >}}u{{< /math >}} , {{< math inline >}}v{{< /math >}} に変換したいとき、変換元の式は {{< math inline >}}x = {{< /math >}} や {{< math inline >}}y = {{< /math >}} の形になるように、式変形をします。
 
@@ -31,7 +31,7 @@ draft: false
 
 {{< math inline >}}x = r \cos\theta{{< /math >}} , {{< math inline >}}y = r \sin\theta{{< /math >}} について次のようにヤコビアンを計算すると、ヤコビアン {{< math inline >}}r{{< /math >}} が求まります。
 
-{{< cloudinary src="https://res.cloudinary.com/tsukayaku/image/upload/v1580349889/Blog-personal/jacobian/jacobian_r.svg" w=584 h=245  caption="rの導出方法" >}}
+{{< cloudinary src="https://res.cloudinary.com/tsukayaku/image/upload/v1630398718/Blog-personal/jacobian/jacobian_r.svg" w=580 h=294 caption="rの導出方法" >}}
 
 ## 番外編２ ～(x-a)^2 + y^2 <= a^2～[[^2]]
 {{< math inline >}}(x-a)^2 + y^2 \leqq a^2{{< /math >}} という式を極座標変換をしたときの、 {{< math inline >}}r{{< /math >}}の範囲について求めます。
