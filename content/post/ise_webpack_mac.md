@@ -1,7 +1,7 @@
 ---
 title: "MacでISE WebPackを使う"
 date: 2021-08-24T18:06:31+09:00
-lastmod: 2021-08-24T18:06:31+09:00
+lastmod: 2021-09-03T17:33:02+09:00
 author: "ぶっち"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1629775984/Blog-personal/ise_webpack_mac/thumb.png"]
 categories: ["電子工作"]
@@ -19,10 +19,12 @@ ISE WebPACKをMacで動かす方法を紹介します。
 1. USBドライバのインストール
 
 環境は以下のとおりです。
+今回使ったMacのプロセッサはIntelモデルですので、Apple M1などのAppleシリコンでも動作するかは未確認です。
 
 | | |
 | --- | --- |
 | パソコン | MacBook Pro (13-inch, 2020, Four Thunderbolt 3 ports) |
+| プロセッサ | 2 GHz クアッドコア Intel Core i5 |
 | OS | macOS Big Sur 11.5.2 |
 | FPGA | SPARTAN-6 XC6SLX9 TQG144 |
 | ダウンロードケーブル | [Digilent XUP USB-JTAG](https://digilent.com/xup-usb-jtag-programming-cable/ "XUP USB-JTAG Programming Cable - Digilent") |
