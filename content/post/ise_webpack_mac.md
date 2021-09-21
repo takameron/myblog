@@ -1,7 +1,7 @@
 ---
 title: "MacでISE WebPackを使う"
 date: 2021-08-24T18:06:31+09:00
-lastmod: 2021-09-03T17:33:02+09:00
+lastmod: 2021-09-21T14:57:00+09:00
 author: "ぶっち"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1629775984/Blog-personal/ise_webpack_mac/thumb.png"]
 categories: ["電子工作"]
@@ -12,6 +12,11 @@ draft: false
 ---
 
 ISE WebPACKをMacで動かす方法を紹介します。
+
+{{< warning >}}
+本記事の通りにおこなっても、ダウンロードできないことがありました。  
+失敗する可能性があることをご了承ください。
+{{< /warning >}}
 
 手順は以下の順番です。
 1. VirtualBoxでUbuntuの仮想マシンを作成
