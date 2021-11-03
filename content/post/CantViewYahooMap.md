@@ -25,7 +25,7 @@ Nuxt.jsでYOLP（地図）の「Yahoo! JavaScriptマップAPI」を使おうと�
 
 これは解決したときの歓喜のツイート
 
-{{< twitter 1223876688108384256 >}}
+{{< twitter user="takameron_info" id="1223876688108384256" >}}
 
 [こちらのサイト](http://mori-coding.blog.jp/archives/8063243.html "yahoo map（YOLP）でマップが描画されずにグレーになったときのCSS原因 : 森のコーディング")に解決法が紹介されています。  
 なんと！
