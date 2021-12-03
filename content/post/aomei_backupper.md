@@ -1,7 +1,7 @@
 ---
 title: "AOMEI Backupperでまるごとバックアップ"
 date: 2021-12-01T22:01:00+09:00
-lastmod: 2021-12-01T22:01:00+09:00
+lastmod: 2021-12-03T18:32:00+09:00
 author: "ぶっち"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1638145507/Blog-personal/aomei_backupper/top1.png"]
 categories: ["ソフトウェア・サービス"]
@@ -50,7 +50,7 @@ draft: false
 また、物理コンピュータのバックアップから仮想マシンを作ることができるようです。
 これは便利そう！
 
-クローン機能では、無料版では制限付きでディスクのクローンができ、またパーティションとセクタ単位でクローンできます。
+クローン機能では、無料版では制限付きで[ディスクのクローン](https://www.ubackup.com/jp/help/disk-clone.html?utm_source=article&utm_medium=anchor&utm_campaign=takameron&utm_content=anchor-ly-20211202)ができ、またパーティションとセクタ単位でクローンできます。
 有料版になるとディスクのクローンの制限がなくなり、「パーティションのサイズ調整」を利用できたり、小さい容量のディスクから大きい容量のディスクへクローンするときに全パーティションに空き容量を追加することができます。
 
 ツールでは、無料版では「回復環境の作成」を利用でき、システムがクラッシュしたとき用にバックアップ・復元を実行できる回復環境をWindowsのブートオプションメニューに追加するそうです。
@@ -232,3 +232,7 @@ HDDからSSDに換装するときに便利そうですね。
 
 事故はいつ起こるかわかりません。HDDが壊れるかも、マルウェアに感染するかも、PCを紛失するかも、盗難に遭うかも…
 保険と同じように、事故が起こった時に被害を抑えられるよう、こまめなバックアップをオススメします。
+
+---
+
+ちなみに、バックアップだけではなくクローンを作成する機能もあります。[ディスククローン](https://www.ubackup.com/jp/help/disk-clone.html?utm_source=article&utm_medium=anchor&utm_campaign=takameron&utm_content=anchor-ly-20211202)をご覧ください。
