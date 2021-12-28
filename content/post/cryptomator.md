@@ -2,7 +2,7 @@
 title: "Cryptomatorでクラウドストレージのデータを暗号化する"
 date: 2020-04-23T10:06:51+09:00
 lastmod: 2020-04-23T11:00:07+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1584423768/Blog-personal/cryptomator/thumb.png"]
 categories: ["ソフトウェア・サービス"]
 tags: ["セキュリティ"]

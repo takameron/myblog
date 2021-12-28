@@ -2,7 +2,7 @@
 title: "GIMPで輪郭抽出"
 date: 2020-03-01T17:38:30+09:00
 lastmod: 2020-03-01T17:38:30+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1583049405/Blog-personal/contour_extraction_of_GIMP/processed.jpg"]
 categories: ["ソフトウェア・サービス"]
 tags: []

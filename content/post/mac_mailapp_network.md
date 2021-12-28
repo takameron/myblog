@@ -2,7 +2,7 @@
 title: "Macのメールアプリが頻繁に通信している対処法"
 date: 2020-09-21T15:22:10+09:00
 lastmod: 2020-09-21T15:22:10+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1600668879/Blog-personal/mac_mailapp_network/thumb.svg"]
 categories: ["Tips"]
 tags: []

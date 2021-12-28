@@ -2,7 +2,7 @@
 title: "2020年の振り返り"
 date: 2020-12-31T01:11:15+09:00
 lastmod: 2020-12-31T01:11:15+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351936/Blog-personal/thumbnail/default.jpg"]
 categories: ["個人"]
 tags: ["抱負・振り返り"]

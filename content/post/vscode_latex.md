@@ -2,7 +2,7 @@
 title: "VSCodeでLaTeXの環境を整える"
 date: 2020-10-20T22:29:00+09:00
 lastmod: 2021-08-23T18:30:01+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1602317181/Blog-personal/vscode_latex/thumb.png"]
 categories: ["Tips"]
 tags: []

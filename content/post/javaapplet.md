@@ -2,7 +2,7 @@
 title: "UbuntuでJava Appletを動かす方法"
 date: 2019-04-13T23:11:00+09:00
 lastmod: 2019-04-13T23:11:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351945/Blog-personal/thumbnail/programming.jpg"]
 categories: ["プログラミング"]
 tags: []

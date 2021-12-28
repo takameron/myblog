@@ -2,7 +2,7 @@
 title: "Thunderbirdのおすすめアドオン"
 date: 2021-12-15T18:30:00+09:00
 lastmod: 2021-12-15T18:30:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1639439976/Blog-personal/thunderbird_addon_recommendation/thumbnail.png"]
 categories: ["ソフトウェア・サービス"]
 tags: []

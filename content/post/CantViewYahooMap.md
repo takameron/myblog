@@ -2,7 +2,7 @@
 title: "YOLP（地図）の「Yahoo! JavaScriptマップAPI」が表示されずに背景がグレーになってしまったときの対処法"
 date: 2020-02-08T16:59:00+09:00
 lastmod: 2020-02-08T16:59:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1581084597/Blog-personal/CantViewYahooMap/CantViewYahooMap.jpg"]
 categories: ["プログラミング"]
 tags: []

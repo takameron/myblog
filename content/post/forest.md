@@ -2,7 +2,7 @@
 title: "スマホ熱中を防ぐ『Forest』"
 date: 2018-09-10T00:06:51+09:00
 lastmod: 2018-09-10T00:06:51+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351953/Blog-personal/thumbnail/app.jpg"]
 categories: ["ソフトウェア・サービス"]
 tags: ["時間管理"]

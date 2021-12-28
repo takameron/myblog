@@ -2,7 +2,7 @@
 title: "2020年の抱負"
 date: 2020-01-04T10:49:00+09:00
 lastmod: 2020-01-04T10:49:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351936/Blog-personal/thumbnail/default.jpg"]
 categories: ["個人"]
 tags: ["抱負・振り返り"]

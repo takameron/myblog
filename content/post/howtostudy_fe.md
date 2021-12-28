@@ -2,7 +2,7 @@
 title: "基本情報技術者試験の勉強法"
 date: 2020-02-13T15:45:30+09:00
 lastmod: 2020-02-13T15:45:30+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351951/Blog-personal/thumbnail/study.jpg"]
 categories: ["Tips"]
 tags: ["資格・試験"]

@@ -2,7 +2,7 @@
 title: "MacでInkscapeをビルドする"
 date: 2021-10-16T07:49:49+09:00
 lastmod: 2021-10-16T07:49:49+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1632986420/Blog-personal/inkscape_build_on_mac/thumbnail.png"]
 categories: ["ソフトウェア・サービス"]
 tags: []

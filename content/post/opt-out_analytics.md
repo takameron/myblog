@@ -2,7 +2,7 @@
 title: "Google Analyticsにカウントされない方法"
 date: 2019-03-07T15:03:00+09:00
 lastmod: 2020-05-12T06:00:23+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351955/Blog-personal/thumbnail/blog.jpg"]
 categories: ["Tips"]
 tags: ["ブログ"]

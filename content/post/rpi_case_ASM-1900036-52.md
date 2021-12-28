@@ -2,7 +2,7 @@
 title: "KSYのショップで購入した Raspberry Pi 3B＋・3・2・B＋ 用ケースの取付方法"
 date: 2019-10-13T17:22:00+09:00
 lastmod: 2019-10-13T17:22:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580350035/Blog-personal/rpi_case_ASM-1900036-52/thumbnail.jpg"]
 categories: ["電子工作"]
 tags: ["Raspberry Pi"]

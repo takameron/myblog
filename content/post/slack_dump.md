@@ -2,7 +2,7 @@
 title: "Slackのメッセージをバックアップ"
 date: 2021-10-02T11:57:00+09:00
 lastmod: 2021-10-02T11:57:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1632994946/Blog-personal/slack_dump/thumbnail.png"]
 categories: ["ソフトウェア・サービス"]
 tags: []

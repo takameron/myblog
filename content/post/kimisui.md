@@ -2,7 +2,7 @@
 title: "映画『君の膵臓をたべたい』感想"
 date: 2018-08-22T15:49:13+09:00
 lastmod: 2018-08-22T15:49:13+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351938/Blog-personal/thumbnail/film-movie.jpg"]
 categories: ["雑記・日記"]
 tags: ["映画"]

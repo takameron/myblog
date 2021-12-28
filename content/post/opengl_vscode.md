@@ -2,7 +2,7 @@
 title: "VSCodeでOpenGLのIntelliSenseを有効にする"
 date: 2021-03-20T16:59:00+09:00
 lastmod: 2021-03-20T16:59:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351945/Blog-personal/thumbnail/programming.jpg"]
 categories: ["プログラミング"]
 tags: []

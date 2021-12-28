@@ -13,7 +13,7 @@ ignoreErrors = ["error-remote-getjson"]
 timeout = 100000
 
 [Author]
-  name = "ぶっち"
+  name = "たかめろん"
 
 [params]
   title = "ぶっち・ブログ" # For OGP
@@ -24,7 +24,7 @@ timeout = 100000
 
   [params.author]
     logo = "/img/author.png"
-    name = "ぶっち"
+    name = "たかめろん"
     description= "高専生。自由気ままにブログを書こうと思います。"
     email = "contact@takameron.info"
     twitter = "takameron_info"

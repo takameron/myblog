@@ -2,7 +2,7 @@
 title: "Lenovo Chromebook S330を使ってみた"
 date: 2020-07-06T11:13:18+09:00
 lastmod: 2020-07-06T11:13:18+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1593998003/Blog-personal/lenovo_chromebook_s330/thumb.jpg"]
 categories: ["ガジェット"]
 tags: []

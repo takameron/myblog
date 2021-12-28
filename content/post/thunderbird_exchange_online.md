@@ -2,7 +2,7 @@
 title: "ThunderbirdでExchange OnlineをOAuth 2.0認証する"
 date: 2021-02-03T17:02:33+09:00
 lastmod: 2021-02-03T17:02:33+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1609052102/Blog-personal/thunderbird_exchange_online/6.png"]
 categories: ["ソフトウェア・サービス"]
 tags: []

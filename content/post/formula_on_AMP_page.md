@@ -2,7 +2,7 @@
 title: "AMPに対応したHUGOサイトに数式を載せる"
 date: 2019-02-27T15:20:00+09:00
 lastmod: 2019-02-27T15:20:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351955/Blog-personal/thumbnail/blog.jpg"]
 categories: ["プログラミング"]
 tags: ["ブログ","HUGO"]

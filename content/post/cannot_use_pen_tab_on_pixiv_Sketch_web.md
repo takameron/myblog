@@ -2,7 +2,7 @@
 title: "Web版「pixiv Sketch」でペンタブが使えないときの対処法"
 date: 2020-04-12T10:41:30+09:00
 lastmod: 2020-04-12T10:41:30+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1584257891/Blog-personal/thumbnail/illust.jpg"]
 categories: ["ソフトウェア・サービス"]
 tags: []

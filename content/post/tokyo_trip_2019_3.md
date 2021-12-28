@@ -2,7 +2,7 @@
 title: "貧乏学生の格安東京旅行【3日目】"
 date: 2019-03-29T09:58:00+09:00
 lastmod: 2019-03-30T12:42:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351043/Blog-personal/tokyo_trip_2019_3/enosui3.jpg"]
 categories: ["趣味"]
 tags: ["東京旅行2019"]

@@ -2,7 +2,7 @@
 title: "ソースネクストのポイント制度"
 date: 2021-09-21T14:58:30+09:00
 lastmod: 2021-09-21T14:58:30+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1632185845/Blog-personal/sourcenext_point/thumbnail.svg"]
 categories: ["ソフトウェア・サービス"]
 tags: ["ポイント"]

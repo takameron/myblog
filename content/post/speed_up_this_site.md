@@ -2,7 +2,7 @@
 title: "【2018年版】このブログに使われている技術"
 date: 2018-12-31T17:56:00+09:00
 lastmod: 2020-09-04T14:04:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351955/Blog-personal/thumbnail/blog.jpg"]
 categories: ["プログラミング"]
 tags: ["ブログ"]

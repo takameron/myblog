@@ -2,7 +2,7 @@
 title: "最近、迷惑メールが来る話"
 date: 2020-09-04T11:03:26+09:00
 lastmod: 2020-09-04T11:03:26+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1599176113/Blog-personal/meiwaku_mail/thumb.svg"]
 categories: ["雑記・日記"]
 tags: []

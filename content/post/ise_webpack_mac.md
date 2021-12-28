@@ -2,7 +2,7 @@
 title: "MacでISE WebPackを使う"
 date: 2021-08-24T18:06:31+09:00
 lastmod: 2021-09-21T14:57:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1629775984/Blog-personal/ise_webpack_mac/thumb.png"]
 categories: ["電子工作"]
 tags: ["FPGA"]

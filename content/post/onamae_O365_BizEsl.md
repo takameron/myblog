@@ -2,7 +2,7 @@
 title: "お名前.comでOffice 365 Business Essentialsを契約した"
 date: 2020-03-20T12:43:44+09:00
 lastmod: 2020-03-20T12:43:44+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351953/Blog-personal/thumbnail/app.jpg"]
 categories: ["ソフトウェア・サービス"]
 tags: []
@@ -14,7 +14,7 @@ draft: false
 お名前.comで、Office 365 Business Essentialsの月額プランを契約しました。
 そこで、契約手順を紹介します。
 
-どこで契約するのが良いのかは[こちらの記事](/post/office365_business_essentials/ "Office 365 Business Essentialsの契約方法をまとめてみた - ぶっち・ブログ")で検討しています。
+どこで契約するのが良いのかは[こちらの記事](/post/office365_business_essentials/ "Office 365 Business Essentialsの契約方法をまとめてみた - たかめろん・ブログ")で検討しています。
 
 ## プランを選択
 

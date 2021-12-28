@@ -2,7 +2,7 @@
 title: "右クリックメニューにプログラムを追加"
 date: 2020-06-08T14:54:11+09:00
 lastmod: 2020-06-08T14:54:11+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1584782117/Blog-personal/add_context_menu/thumb.png"]
 categories: ["Tips"]
 tags: []

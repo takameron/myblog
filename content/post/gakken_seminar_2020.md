@@ -2,7 +2,7 @@
 title: "高専生向けの就活セミナーに参加した"
 date: 2019-01-13T21:41:30+09:00
 lastmod: 2019-01-13T22:24:30+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351947/Blog-personal/thumbnail/pull-suit.jpg"]
 categories: ["雑記・日記"]
 tags: ["就活"]

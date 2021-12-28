@@ -2,7 +2,7 @@
 title: "EVIO X1を使ってみた"
 date: 2020-06-21T13:58:04+09:00
 lastmod: 2020-06-21T13:58:04+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1591656073/Blog-personal/evio_x1/7.jpg"]
 categories: ["ガジェット"]
 tags: []

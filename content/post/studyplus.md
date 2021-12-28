@@ -2,7 +2,7 @@
 title: "勉強をやる気にさせる『Studyplus』"
 date: 2018-09-09T12:10:00+09:00
 lastmod: 2018-09-09T12:10:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351953/Blog-personal/thumbnail/app.jpg"]
 categories: ["ソフトウェア・サービス"]
 tags: ["勉強","時間管理"]

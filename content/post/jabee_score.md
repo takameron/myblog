@@ -2,7 +2,7 @@
 title: "JABEEの合格点を60点から40点にしたらどうか"
 date: 2019-02-25T09:26:00+09:00
 lastmod: 2019-04-03T20:48:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351949/Blog-personal/thumbnail/school.jpg"]
 categories: ["雑記・日記"]
 tags: ["学校"]

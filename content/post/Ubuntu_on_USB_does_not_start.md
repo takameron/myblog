@@ -2,7 +2,7 @@
 title: "USBメモリに入れたUbuntuが起動しなくなったので修復した"
 date: 2020-03-06T13:45:49+09:00
 lastmod: 2020-03-06T13:45:49+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351710/Blog-personal/Ubuntu_on_USB_does_not_start/not_booting.jpg"]
 categories: ["Tips"]
 tags: []

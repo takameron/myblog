@@ -2,7 +2,7 @@
 title: "貧乏学生の格安東京旅行【まとめ】"
 date: 2019-09-16T15:49:00+09:00
 lastmod: 2020-02-09T16:02:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351680/Blog-personal/tokyo_trip_2019_summary/shibuya.jpg"]
 categories: ["趣味"]
 tags: ["東京旅行2019"]

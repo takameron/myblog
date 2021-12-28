@@ -2,7 +2,7 @@
 title: "気分転換"
 date: 2018-12-30T23:44:00+09:00
 lastmod: 2018-12-30T23:44:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351936/Blog-personal/thumbnail/default.jpg"]
 categories: ["雑記・日記"]
 tags: []

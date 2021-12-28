@@ -2,7 +2,7 @@
 title: "料理初心者が料理をしてみた"
 date: 2020-04-03T17:20:00+09:00
 lastmod: 2020-04-03T17:20:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1585287067/Blog-personal/beginner_cooking/Brownie.jpg"]
 categories: ["趣味"]
 tags: ["料理","食べ物"]

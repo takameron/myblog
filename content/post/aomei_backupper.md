@@ -2,7 +2,7 @@
 title: "AOMEI Backupperでまるごとバックアップ"
 date: 2021-12-01T22:01:00+09:00
 lastmod: 2021-12-03T18:32:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1638145507/Blog-personal/aomei_backupper/top1.png"]
 categories: ["ソフトウェア・サービス"]
 tags: ["レビュー"]

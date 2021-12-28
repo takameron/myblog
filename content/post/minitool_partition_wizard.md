@@ -2,7 +2,7 @@
 title: "MiniTool Partition Wizardでパーティション編集"
 date: 2020-12-06T11:26:00+09:00
 lastmod: 2020-12-06T11:26:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1607170180/Blog-personal/minitool_partition_wizard/main.png"]
 categories: ["ソフトウェア・サービス"]
 tags: ["レビュー"]

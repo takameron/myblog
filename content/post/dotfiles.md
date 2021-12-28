@@ -2,7 +2,7 @@
 title: "dotfilesを作ってMacを簡単セットアップ"
 date: 2021-11-02T14:17:00+09:00
 lastmod: 2021-11-02T14:17:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351945/Blog-personal/thumbnail/programming.jpg"]
 categories: ["Tips"]
 tags: []

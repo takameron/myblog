@@ -2,7 +2,7 @@
 title: "プライバシーポリシー"
 date: 2018-07-02T00:09:40+09:00
 lastmod: 2021-07-27T17:30:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351936/Blog-personal/thumbnail/default.jpg"]
 categories: []
 tags: []

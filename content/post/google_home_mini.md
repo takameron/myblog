@@ -2,7 +2,7 @@
 title: "Google Home Mini は単体で便利だし、プログラミングすれば可能性は無限大"
 date: 2019-10-14T00:01:30+09:00
 lastmod: 2019-10-14T00:01:30+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351941/Blog-personal/thumbnail/google_home_mini.jpg"]
 categories: ["ガジェット"]
 tags: ["Google Home"]

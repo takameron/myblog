@@ -2,7 +2,7 @@
 title: "OneNoteで日記を書く"
 date: 2018-12-31T02:03:30+09:00
 lastmod: 2018-12-31T02:03:30+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351937/Blog-personal/thumbnail/diary.jpg"]
 categories: ["ソフトウェア・サービス"]
 tags: []

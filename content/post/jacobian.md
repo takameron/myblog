@@ -2,7 +2,7 @@
 title: "ヤコビアンの求め方"
 date: 2019-03-03T14:40:00+09:00
 lastmod: 2019-03-03T14:40:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351951/Blog-personal/thumbnail/study.jpg"]
 categories: ["Tips"]
 tags: ["勉強"]

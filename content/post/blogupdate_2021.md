@@ -2,7 +2,7 @@
 title: "ブログ環境を更新した"
 date: 2021-07-27T17:54:39+09:00
 lastmod: 2021-07-27T17:54:39+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351955/Blog-personal/thumbnail/blog.jpg"]
 categories: ["雑記・日記"]
 tags: ["ブログ","HUGO"]

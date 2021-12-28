@@ -2,7 +2,7 @@
 title: "FlexClipで動画をサクッと制作！"
 date: 2021-05-16T16:05:54+09:00
 lastmod: 2021-05-16T16:05:54+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1621148228/Blog-personal/flexclip/thumb.png"]
 categories: ["ソフトウェア・サービス"]
 tags: ["レビュー"]

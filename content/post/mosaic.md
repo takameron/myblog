@@ -2,7 +2,7 @@
 title: "手っ取り早くモザイクをかける方法"
 date: 2020-05-12T06:06:07+09:00
 lastmod: 2020-05-12T06:06:07+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1584794799/Blog-personal/mosaic/processed.jpg"]
 categories: ["Tips"]
 tags: []

@@ -2,7 +2,7 @@
 title: "WindowsタブレットPCが起動しなくなった話"
 date: 2020-02-24T11:52:00+09:00
 lastmod: 2020-02-24T11:52:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1582512464/Blog-personal/windows_tablet_PC_does_not_start/thumbnail.jpg"]
 categories: ["Tips"]
 tags: []

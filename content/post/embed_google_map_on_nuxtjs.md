@@ -2,7 +2,7 @@
 title: "Nuxt.jsにGoogle マップを貼り付ける"
 date: 2020-07-27T15:41:06+09:00
 lastmod: 2020-07-27T15:41:06+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1594003909/Blog-personal/embed_google_map_on_nuxtjs/before.png"]
 categories: ["プログラミング"]
 tags: []

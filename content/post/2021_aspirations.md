@@ -2,7 +2,7 @@
 title: "2021年の抱負"
 date: 2021-01-01T12:59:00+09:00
 lastmod: 2021-01-01T12:59:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351936/Blog-personal/thumbnail/default.jpg"]
 categories: ["個人"]
 tags: ["抱負・振り返り"]

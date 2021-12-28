@@ -2,7 +2,7 @@
 title: "ブラウザでのダウンロードに失敗する時の対処法"
 date: 2019-09-19T00:53:00+09:00
 lastmod: 2019-09-19T00:53:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580349280/Blog-personal/download_failed/download_failed.png"]
 categories: ["Tips"]
 tags: []

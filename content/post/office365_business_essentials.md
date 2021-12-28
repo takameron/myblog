@@ -2,7 +2,7 @@
 title: "Office 365 Business Essentialsの契約方法をまとめてみた"
 date: 2020-03-12T17:15:34+09:00
 lastmod: 2020-03-13T13:41:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351953/Blog-personal/thumbnail/app.jpg"]
 categories: ["ソフトウェア・サービス"]
 tags: []

@@ -2,7 +2,7 @@
 title: "ソフトウェアの配布場所・方法"
 date: 2020-10-04T10:53:00+09:00
 lastmod: 2020-10-04T10:53:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1601716787/Blog-personal/software_distribution_place/thumb.svg"]
 categories: ["Tips"]
 tags: []

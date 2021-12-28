@@ -2,7 +2,7 @@
 title: "貧乏学生の格安東京旅行【4日目（最終日）】"
 date: 2019-03-30T12:40:00+09:00
 lastmod: 2019-09-16T15:51:00+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351332/Blog-personal/tokyo_trip_2019_4/takeshita.jpg"]
 categories: ["趣味"]
 tags: ["東京旅行2019"]

@@ -2,7 +2,7 @@
 title: "本『ツレがうつになりまして。』感想"
 date: 2018-08-24T15:55:06+09:00
 lastmod: 2018-08-24T15:55:06+09:00
-author: "ぶっち"
+author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351934/Blog-personal/thumbnail/book.jpg"]
 categories: ["雑記・日記"]
 tags: ["本"]
