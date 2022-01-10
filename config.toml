@@ -10,7 +10,7 @@ GoogleAnalytics = "UA-82319934-4"
 #GoogleAnalytics = "G-82B70P3QSV"
 #disqusShortname = "yourdiscussshortname"
 ignoreErrors = ["error-remote-getjson"]
-timeout = 100000
+timeout = 300000
 
 [Author]
   name = "たかめろん"
