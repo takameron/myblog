@@ -1,7 +1,7 @@
 ---
 title: "EaseUS Todo PCTransで簡単にデータ移行"
 date: 2022-01-15T18:12:00+09:00
-lastmod: 2022-01-15T18:12:00+09:00
+lastmod: 2022-01-16T11:20:00+09:00
 author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1641731708/Blog-personal/easeus_todo_pctrans/startup.png"]
 categories: ["ソフトウェア・サービス"]
@@ -94,6 +94,10 @@ Free版には主に以下の制限があります（他にもあります）。
 
 アプリの移行は、アプリケーションを別のパーティションやディスクに移動できるようです。
 普段使うディスクやパーティションがいっぱいになった時に便利そうです。
+
+詳しくはこちらの記事をご覧ください。
+
+{{< blogcard "https://jp.easeus.com/pc-transfer-software/transfer-app-to-a-new-bought-computer.html" >}}
 
 {{< cloudinary src="https://res.cloudinary.com/tsukayaku/image/upload/v1641731437/Blog-personal/easeus_todo_pctrans/main-apptransfer.png" alt="メイン画面（アプリの移行）" caption="アプリの移行" >}}
 
