@@ -25,7 +25,7 @@ timeout = 300000
   [params.author]
     logo = "/img/author.png"
     name = "たかめろん"
-    description= "高専生。自由気ままにブログを書こうと思います。"
+    description= "自由気ままに書いていきます。"
     email = "contact@takameron.info"
     twitter = "takameron_info"
     #facebook = "author_facebook"
