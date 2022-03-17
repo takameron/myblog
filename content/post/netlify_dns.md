@@ -1,7 +1,7 @@
 ---
 title: "「Netlify DNS」に変えたら速くなった"
 date: 2019-02-23T17:29:30+09:00
-lastmod: 2020-02-08T18:32:00+09:00
+lastmod: 2022-03-17T14:46:00+09:00
 author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351955/Blog-personal/thumbnail/blog.jpg"]
 categories: ["プログラミング"]
@@ -10,6 +10,9 @@ archives: ["2019", "2019-02"]
 toc: true
 draft: false
 ---
+
+*2022/03/17 追記*  
+現在は Cloudflare Pages でホスティングし、CloudflareのDNSを使用しています。
 
 *2020/02/08 追記*  
 現在は Firebase Hosting でホスティングし、CloudFlareのDNSを使用しています。
