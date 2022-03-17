@@ -1,7 +1,7 @@
 ---
 title: "【2018年版】このブログに使われている技術"
 date: 2018-12-31T17:56:00+09:00
-lastmod: 2020-09-04T14:04:00+09:00
+lastmod: 2022-03-17T15:09:00+09:00
 author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351955/Blog-personal/thumbnail/blog.jpg"]
 categories: ["プログラミング"]
@@ -11,7 +11,17 @@ toc: true
 draft: false
 ---
 
-*この記事は2018年時点の構成です。*  
+**この記事は2018年時点の構成です。**  
+
+2022年現在は以下の構成になっています。
+
+* 静的サイトジェネレーター：HUGO
+* ホスティング：Cloudflare Pages
+* 画像配信：Cloudinary
+* 管理：GitHub
+
+---
+
 2020年現在は以下の構成になっています。
 
 * 静的サイトジェネレーター：HUGO
