@@ -1,7 +1,7 @@
 ---
 title: "AMPに対応したHUGOサイトに数式を載せる"
 date: 2019-02-27T15:20:00+09:00
-lastmod: 2019-02-27T15:20:00+09:00
+lastmod: 2022-03-17T16:13:00+09:00
 author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351955/Blog-personal/thumbnail/blog.jpg"]
 categories: ["プログラミング"]
@@ -12,6 +12,70 @@ draft: false
 ---
 
 HUGOで構築され、AMPに対応したWebサイトで、エラーなく数式を表示する方法を紹介します。
+
+## **2022年3月17日追記**  
+2022年現在ではGoogle検索におけるAMPの優位性はなく、AMPページに数式を載せようと四苦八苦するくらいならAMPに対応しない、という選択もあると思います。
+画像のサイズを明記するなど、AMPで必須とされているものは確かに高速化につながっていると思います。
+しかし全て完璧にしなければならず、そのための対応コストは大きいです。
+
+ここでは簡単に、2022年版の数式の載せ方を紹介します。
+
+まず、Shortcodesを作成します。  
+以下の内容で、通常用の`math.html`、AMPページ用の`math.amp.html`を作成してください。
+
+`math.html`
+```plain {linenos=false}
+{{- if .Get 0 -}}
+\( {{ .Inner }} \)
+{{- else -}}
+\[ {{ .Inner }} \]
+{{- end -}}
+```
+
+`math.amp.html`
+```plain {linenos=false}
+<amp-mathml layout="container" {{ if .Get 0 }} inline {{ end }} data-formula="\( {{ .Inner }} \)"></amp-mathml>
+```
+
+次に、数式表示用のライブラリを読み込みます。
+`.HasShortcode "math"`は、`math`というShortcodesが使われていれば真、使われいなければ偽を返します。
+これで数式が使われいるときだけライブラリを読み込めるようになります。
+
+以下では、`math`というShortcodesが使われているときだけKaTeXというライブラリを読み込むコードの例です。
+
+```html
+{{- if .HasShortcode "math" -}}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.css" integrity="sha384-KiWOvVjnN8qwAZbuQyWDIbfCLFhLXNETzBQjA/92pIowpC0d2O3nppDGQVgwd2nB" crossorigin="anonymous" media="print" onload="this.media='all'; this.onload=null;">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/katex.min.js" integrity="sha384-0fdwu/T/EQMsQlrHCCHoH10pkPLlKA1jL5dFyUOvB3lfeT2540/2g6YgSi2BL14p" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.3/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+      delimiters: [
+        {left: "$$", right: "$$", display: true},
+        {left: "$", right: "$", display: false},
+        {left: "\\(", right: "\\)", display: false},
+        {left: "\\[", right: "\\]", display: true}
+      ]
+    });
+  });
+</script>
+{{- end -}}
+```
+
+Shortcodesの使い方を紹介します。
+
+1行全体を使って数式を表示するには、以下のようにします。
+```plain {linenos=false}
+{{</* math */>}} x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} {{</* /math */>}}
+```
+
+文中（インライン）に表示するには、以下のように`inline`を書き加えます。
+```plain {linenos=false}
+{{</* math inline */>}} x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a} {{</* /math */>}}
+```
+
+---
 
 ## 概要
 ここでは、大まかな流れを説明します。
