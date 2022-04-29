@@ -5,7 +5,7 @@ lastmod: 2020-03-20T12:43:44+09:00
 author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351953/Blog-personal/thumbnail/app.jpg"]
 categories: ["ソフトウェア・サービス"]
-tags: []
+tags: ["Microsoft365"]
 archives: ["2020", "2020-03"]
 toc: true
 draft: false
