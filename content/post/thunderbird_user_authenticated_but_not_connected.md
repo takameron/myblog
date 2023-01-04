@@ -1,9 +1,9 @@
 ---
 title: "Thunderbirdで「user authenticated but not connected」というエラー"
 date: 2023-01-04T19:08:02+09:00
-lastmod: 2023-01-04T19:08:02+09:00
+lastmod: 2023-01-04T19:18:01+09:00
 author: "たかめろん"
-images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1672825631/Blog-personal/thunderbird_user_authenticated_but_not_connected/1.png"]
+images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1672827432/Blog-personal/thunderbird_user_authenticated_but_not_connected/1.png"]
 categories: ["ソフトウェア・サービス"]
 tags: []
 archives: ["2023","2023-01"]
