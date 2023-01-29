@@ -1,7 +1,7 @@
 ---
 title: "MiniTool ShadowMakerで簡単バックアップ管理"
 date: 2023-01-29T01:57:05+09:00
-lastmod: 2023-01-29T01:57:05+09:00
+lastmod: 2023-01-29T20:51:50+09:00
 author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1674907591/Blog-personal/minitool_shadow_maker/4.png"]
 categories: ["ソフトウェア・サービス"]
@@ -16,7 +16,7 @@ draft: false
 いつパソコンが壊れるかわかりません。
 パソコンが壊れて代替機は用意できても、データも消失してしまえば、作り直しという膨大な手間と時間がかかります。
 新年が始まったばかりのこのタイミングで、データ消失対策を考えてみてはいかがでしょうか。
-バックアップは大切です。
+[バックアップ](https://jp.minitool.com/backup/system-backup.html)は大切です。
 
 今回は『MiniTool ShadowMaker 無料版』の紹介を頂きましたので使ってみました！  
 MiniTool ShadowMakerはバックアップソフトで、バックアップや同期、さらにディスクのクローンなどの機能があります。
@@ -199,7 +199,7 @@ Sync（同期）機能を試したところ、同期先には同期元のファ�
 
 ---
 
-『MiniTool ShadowMaker 無料版』というバックアップソフトを紹介しました。
+『MiniTool ShadowMaker 無料版』という[バックアップソフト](https://jp.minitool.com/backup/system-backup.html)を紹介しました。
 
 以下からダウンロードできます。
 
