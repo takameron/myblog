@@ -1,7 +1,7 @@
 ---
 title: "VSCodeでLaTeXの環境を整える"
 date: 2020-10-20T22:29:00+09:00
-lastmod: 2021-08-23T18:30:01+09:00
+lastmod: 2023-09-23T19:41:01+09:00
 author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1602317181/Blog-personal/vscode_latex/thumb.png"]
 categories: ["Tips"]
@@ -183,9 +183,9 @@ Windowsではエラーが表示されるかもしれませんが、その場合�
 Latexmkとは、「文書を作成するのに必要な回数タイプセットしてくれるツール」[^1]で、少ない行数でコンパイル方法の指定ができます。
 [^1]: [Latexmk - TeX Wiki](https://texwiki.texjp.org/?Latexmk "Latexmk - TeX Wiki")
 
-1. ```.latexmk```ファイルを作成します。Windowsではエラーが表示されるかもしれませんが、その場合はフォルダ名を```.latexmk.```としてみてください。
+1. ```.latexmkrc```ファイルを作成します。Windowsではエラーが表示されるかもしれませんが、その場合はフォルダ名を```.latexmkrc.```としてみてください。
 
-2. ```.latexmk```ファイルを開いて、以下のテキストを貼り付けてください。
+2. ```.latexmkrc```ファイルを開いて、以下のテキストを貼り付けてください。
 
 ```Perl
 #!/usr/bin/env perl
