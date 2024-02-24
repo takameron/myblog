@@ -1,6 +1,7 @@
 baseURL = "https://www.takameron.info/"
 title = "ぶっち・ブログ"
-languageCode = "ja-jp"
+languageCode = "ja-JP"
+defaultContentLanguage = "ja"
 hasCJKLanguage = true
 pygmentsUseClasses = true
 pygmentsCodefences = true
