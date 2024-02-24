@@ -4,7 +4,7 @@ date: 2019-01-13T21:41:30+09:00
 lastmod: 2019-01-13T22:24:30+09:00
 author: "たかめろん"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351947/Blog-personal/thumbnail/pull-suit.jpg"]
-categories: ["雑記・日記"]
+categories: ["イベント"]
 tags: ["就活"]
 archives: ["2019", "2019-01"]
 toc: true
