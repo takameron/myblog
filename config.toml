@@ -7,11 +7,17 @@ pygmentsUseClasses = true
 pygmentsCodefences = true
 theme = "smartblog"
 
-#GoogleAnalytics = "UA-82319934-4"
-GoogleAnalytics = "G-82B70P3QSV"
-#disqusShortname = "yourdiscussshortname"
 ignoreErrors = ["error-remote-getjson"]
 timeout = 300000
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-82B70P3QSV'
+
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    respectDoNotTrack = false
 
 [Author]
   name = "たかめろん"
