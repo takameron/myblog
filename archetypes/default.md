@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 lastmod: {{ .Date }}
-author: "{{ .Site.Author.name }}"
+author: "{{ .Site.Params.author.name }}"
 images: ["https://res.cloudinary.com/tsukayaku/image/upload/v1580351936/Blog-personal/thumbnail/default.jpg"]
 categories: ["category1"]
 tags: ["tag1","tag2"]

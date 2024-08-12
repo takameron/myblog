@@ -19,9 +19,6 @@ timeout = 300000
     disable = false
     respectDoNotTrack = false
 
-[Author]
-  name = "たかめろん"
-
 [params]
   title = "ぶっち・ブログ" # For OGP
   copyright = "© ぶっち・ブログ 2018<br>Text is available under the <a href=\"https://creativecommons.org/licenses/by/4.0/\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 4.0</a>.<br>SourceCode is licensed under the <a href=\"https://creativecommons.org/publicdomain/zero/1.0/\" target=\"_blank\" rel=\"noopener noreferrer\">CC0</a>."
