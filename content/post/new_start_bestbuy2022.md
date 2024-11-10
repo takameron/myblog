@@ -81,7 +81,7 @@ draft: false
 以前、乾燥させた後のものをまとめていたらカビが生えてきたため、すぐに使うか捨てた方が良さそうです。
 
 ## ドライヤー
-{{< blogcard "https://panasonic.jp/hair/products/dryer/EH-NE6G.html" >}}
+{{< blogcard "https://panasonic.jp/hair/c-db/products/EH-NE6G.html" >}}
 
 十分な風量で、乾かしやすいです。
 冷風もいい感じです。

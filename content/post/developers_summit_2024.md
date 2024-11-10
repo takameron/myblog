@@ -49,7 +49,7 @@ draft: false
 * [16-B-8 ビジネスドメインの拡大を実現するバクラクシリーズでのモノレポ開発](https://event.shoeisha.jp/devsumi/20240215/session/4833)
 * [16-E-9 オフラインカンファレンス復活！イベント現地参加の魅力を語りつくすリレーセッション](https://event.shoeisha.jp/devsumi/20240215/session/4861)
 
-さらに[デブサミ2024 懇親会](https://www.seshop.com/product/detail/26030)にも参加しました！
+さらに懇親会にも参加しました！
 
 ## 出発
 
@@ -170,7 +170,7 @@ AIの進化で生産性が向上する。
 
 ### 15-C-5 マイナビの全社データ基盤のモダナイズ
 
-https://engineerblog.mynavi.jp/mynavi_life/sanka_52_03/
+<script defer class="speakerdeck-embed" data-id="c67f0982644a43e89d05eab018077de6" data-ratio="1.7777777777777777" src="//speakerdeck.com/assets/embed.js"></script>
 
 デジタルテクノロジー戦略本部があり、全社横断的に8つの分野でデジタル戦略の立案と実行をしている。
 

@@ -13,7 +13,7 @@ draft: false
 
 メールアドレスに独自ドメインを使いたいなー、クラウドストレージが欲しいなーと思い、探してみたところ、Office 365 Business Essentialsが最適のようです。
 
-「Office 365 Business」はビジネス向けの各種機能が取り揃えられていますが、個人でも契約できるのが大きな魅力です。再販もされているようで、ビジネス向けでは[大塚商会](https://www.otsuka-shokai.co.jp/products/tayoreru/office365/price/)、[ライセンスオンラインBiz](https://biz.licenseonline.jp/product.php?id=300)などで販売されています。個人向けでは、[お名前.com](https://www.onamae-office.com/)で販売されています。いずれもMicrosoft公式よりも**割安で契約できます**。一方、各社独自の条件などがあるため、注意が必要です。
+「Office 365 Business」はビジネス向けの各種機能が取り揃えられていますが、個人でも契約できるのが大きな魅力です。再販もされているようで、ビジネス向けでは[大塚商会](https://www.otsuka-shokai.co.jp/products/tayoreru/office365/price/)、[ライセンスオンラインBiz](https://biz.licenseonline.jp/list.php?keyword=Microsoft+365+Business)などで販売されています。個人向けでは、[お名前.com](https://www.onamae-office.com/)で販売されています。いずれもMicrosoft公式よりも**割安で契約できます**。一方、各社独自の条件などがあるため、注意が必要です。
 
 Microsoftとお名前.com、安く契約するにはどのプランがいいのか、まとめました。2020年3月12日現在の情報に基づいています。
 
