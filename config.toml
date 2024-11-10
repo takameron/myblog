@@ -7,7 +7,6 @@ pygmentsUseClasses = true
 pygmentsCodefences = true
 theme = "smartblog"
 
-ignoreErrors = ["error-remote-getjson"]
 timeout = 300000
 
 [services]
