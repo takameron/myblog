@@ -38,7 +38,7 @@ draft: false
 鶏のさっぱり煮やカレーなどが美味しくつくれます。
 
 こちらはロールキャベツをつくったときの歓喜のツイート。
-{{< twitter user="takameron_info" id="1527740629245382656" >}}
+{{< x user="takameron_info" id="1527740629245382656" >}}
 
 ## 電気ケトル
 {{< blogcard "https://www.t-fal.co.jp/sp/products/CE/kettles/lineup/aprecia_control/" >}}
