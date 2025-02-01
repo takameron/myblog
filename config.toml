@@ -24,6 +24,7 @@ timeout = 300000
   description = "日常やプログラミングなど、趣味や興味のあることを書き連ねています"
   logo = "/img/logo.png"
   quicklink = true
+  summaryTruncateLength = 100
 
   [params.author]
     logo = "/img/author.png"
